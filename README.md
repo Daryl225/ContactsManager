@@ -15,6 +15,14 @@ Petit projet Java pour gérer des contacts (ajout + recherche).
 
 ## Lancer le projet
 
+### 1) Compilation
+
 ```bash
 javac Main.java ContactsManager.java Contact.java
+```
+
+### 2) Execution
+
+```bash
 java Main
+```
